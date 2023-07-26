@@ -1,14 +1,104 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    {
+      "id": 1,
+      "title": "Introduction to AI",
+      "body": "Artificial Intelligence (AI) is a rapidly evolving field that aims to create intelligent machines."
+    },
+    {
+      "id": 2,
+      "title": "The Power of Neural Networks",
+      "body": "Neural networks have revolutionized various industries, including computer vision and natural language processing."
+    },
+    {
+      "id": 3,
+      "title": "The Future of Robotics",
+      "body": "Advancements in robotics promise to reshape industries, from manufacturing to healthcare."
+    },
+    {
+      "id": 4,
+      "title": "Blockchain and Decentralization",
+      "body": "Blockchain technology has the potential to disrupt traditional centralized systems and enhance security."
+    },
+    {
+      "id": 5,
+      "title": "The Impact of 5G Technology",
+      "body": "5G technology is set to enable faster communication and unlock new possibilities for IoT and beyond."
+    },
+    {
+      "id": 6,
+      "title": "Understanding Quantum Computing",
+      "body": "Quantum computing has the potential to solve complex problems that are beyond the capabilities of classical computers."
+    },
+    {
+      "id": 7,
+      "title": "The Rise of Electric Vehicles",
+      "body": "Electric vehicles are becoming increasingly popular due to their environmental benefits and technological advancements."
+    },
+    {
+      "id": 8,
+      "title": "Exploring Space: Mars Missions",
+      "body": "Humanity's fascination with Mars has led to ambitious missions and plans for potential colonization."
+    },
+    {
+      "id": 9,
+      "title": "The World of Virtual Reality",
+      "body": "Virtual reality is transforming entertainment, education, and various other industries."
+    },
+    {
+      "id": 10,
+      "title": "The Promise of Clean Energy",
+      "body": "Renewable energy sources offer a sustainable solution to combat climate change and reduce carbon emissions."
+    },
+    {
+      "id": 11,
+      "title": "The Evolution of Smartphones",
+      "body": "Smartphones have evolved from simple communication devices to powerful pocket computers."
+    },
+    {
+      "id": 12,
+      "title": "Advancements in Biotechnology",
+      "body": "Biotechnology is revolutionizing healthcare, agriculture, and environmental conservation."
+    },
+    {
+      "id": 13,
+      "title": "Machine Learning for Personalization",
+      "body": "Machine learning algorithms personalize user experiences across various online platforms."
+    },
+    {
+      "id": 14,
+      "title": "The Art of Data Visualization",
+      "body": "Data visualization is an essential tool for conveying complex information in a visually appealing manner."
+    },
+    {
+      "id": 15,
+      "title": "The Potential of Nanotechnology",
+      "body": "Nanotechnology holds promise for miniaturization and advancements in medicine and materials science."
+    },
+    {
+      "id": 16,
+      "title": "The Era of Big Data",
+      "body": "Big data analytics enables businesses and researchers to extract valuable insights from vast datasets."
+    },
+    {
+      "id": 17,
+      "title": "Challenges in Cybersecurity",
+      "body": "As technology advances, the importance of robust cybersecurity measures becomes paramount."
+    },
+    {
+      "id": 18,
+      "title": "The Role of Social Media in Society",
+      "body": "Social media platforms have transformed communication, politics, and social interactions."
+    },
+    {
+      "id": 19,
+      "title": "The Changing Landscape of E-commerce",
+      "body": "E-commerce has revolutionized the way people shop, making online retail a dominant force."
+    },
+    {
+      "id": 20,
+      "title": "Sustainable Architecture and Design",
+      "body": "Architecture and design are embracing sustainability principles to create eco-friendly structures."
+    }
+  ]
 }
