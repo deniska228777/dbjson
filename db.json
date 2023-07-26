@@ -1,22 +1,14 @@
-[
-  {
-    "title": "Title 1",
-    "id": 1,
-    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-  },
-  {
-    "title": "Title 2",
-    "id": 2,
-    "body": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-  },
-  {
-    "title": "Title 3",
-    "id": 3,
-    "body": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-  },
-  {
-    "title": "Title 100",
-    "id": 100,
-    "body": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
