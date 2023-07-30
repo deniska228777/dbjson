@@ -100,158 +100,107 @@
         "title": "The Art of Public Speaking",
         "body": "Public speaking skills are essential for effective communication and leadership."
       }
-  ]
+  ],
   "comms": [
-  {
-    "id": 1,
-    "title": "Introduction to JavaScript",
-    "body": "JavaScript is a versatile programming language commonly used for web development. It allows developers to add dynamic behavior to websites and create interactive user experiences."
-  },
-  {
-    "id": 2,
-    "title": "Python Data Analysis",
-    "body": "Python is a powerful language for data analysis and manipulation. With libraries like Pandas and NumPy, it becomes easy to work with structured data and perform various data analysis tasks."
-  },
-  {
-    "id": 3,
-    "title": "Machine Learning Basics",
-    "body": "Machine learning is a subset of artificial intelligence that enables systems to learn from data and improve their performance over time without being explicitly programmed. It has applications in diverse fields like image recognition, natural language processing, and recommendation systems."
-  },
-  {
-    "id": 4,
-    "title": "The Art of Public Speaking",
-    "body": "Public speaking is a valuable skill that can boost your confidence and career prospects. Effective public speakers can convey ideas, inspire audiences, and leave a lasting impact."
-  },
-  {
-    "id": 5,
-    "title": "Healthy Eating Habits",
-    "body": "Maintaining a balanced diet is essential for overall health and well-being. Incorporating a variety of fruits, vegetables, whole grains, and lean proteins can contribute to a healthier lifestyle."
-  },
-  {
-    "id": 6,
-    "title": "Exploring Space: The Solar System",
-    "body": "The solar system is a fascinating subject of study. It includes the Sun, eight planets, moons, asteroids, comets, and other celestial objects. Space exploration has provided valuable insights into the cosmos."
-  },
-  {
-    "id": 7,
-    "title": "The History of Ancient Civilizations",
-    "body": "Ancient civilizations like the Egyptians, Greeks, Romans, and Mayans have shaped human history in significant ways. Their contributions to architecture, art, literature, and governance continue to influence modern societies."
-  },
-  {
-    "id": 8,
-    "title": "Introduction to Web Design",
-    "body": "Web design is the process of creating visually appealing and user-friendly websites. It involves various elements such as layout, color schemes, typography, and user experience design."
-  },
-  {
-    "id": 9,
-    "title": "The Power of Renewable Energy",
-    "body": "Renewable energy sources like solar, wind, and hydroelectric power offer sustainable alternatives to traditional fossil fuels. Embracing renewable energy is crucial for combating climate change and reducing our carbon footprint."
-  },
-  {
-    "id": 10,
-    "title": "Artificial Intelligence in Everyday Life",
-    "body": "AI has become increasingly prevalent in our daily lives, from virtual assistants like Siri and Alexa to personalized recommendations on streaming platforms. Understanding AI's capabilities and limitations is essential for responsible usage."
-  },
-  {
-    "id": 11,
-    "title": "Mindfulness Meditation",
-    "body": "Mindfulness meditation is a practice that involves focusing on the present moment without judgment. It can reduce stress, improve mental clarity, and enhance overall well-being."
-  },
-  {
-    "id": 12,
-    "title": "Photography: Capturing Moments",
-    "body": "Photography is an art form that allows us to freeze moments in time and convey emotions through images. Whether it's landscapes, portraits, or street photography, each photo tells a unique story."
-  },
-  {
-    "id": 13,
-    "title": "The World of Books: Literature Through Ages",
-    "body": "Books have been a source of knowledge, inspiration, and entertainment for centuries. From ancient texts to modern novels, literature reflects the human experience and offers a glimpse into different cultures and perspectives."
-  },
-  {
-    "id": 14,
-    "title": "Introduction to Blockchain Technology",
-    "body": "Blockchain is a decentralized and secure technology used for recording transactions. It forms the backbone of cryptocurrencies like Bitcoin and has potential applications in various industries beyond finance."
-  },
-  {
-    "id": 15,
-    "title": "Sustainable Fashion: Ethical Clothing Choices",
-    "body": "Sustainable fashion promotes environmentally and socially responsible practices in the fashion industry. Choosing eco-friendly and ethically produced clothing can help reduce the environmental impact of the fashion world."
-  },
-  {
-    "id": 16,
-    "title": "Learning a New Language",
-    "body": "Learning a new language opens doors to new cultures and opportunities. It can enhance cognitive abilities, improve communication skills, and foster a deeper appreciation for diverse societies."
-  },
-  {
-    "id": 17,
-    "title": "The Art of Negotiation",
-    "body": "Negotiation is a skill that can be applied in various situations, from business deals to personal relationships. Understanding effective negotiation strategies can lead to mutually beneficial outcomes."
-  },
-  {
-    "id": 18,
-    "title": "Exploring Underwater Worlds: Scuba Diving",
-    "body": "Scuba diving allows adventurers to explore the wonders of the underwater world. From vibrant coral reefs to marine life, diving offers a unique and unforgettable experience."
-  },
-  {
-    "id": 19,
-    "title": "Gardening for Beginners",
-    "body": "Gardening is a rewarding hobby that connects people with nature. Whether you have a small balcony or a spacious backyard, growing plants can be a source of joy and relaxation."
-  },
-  {
-    "id": 20,
-    "title": "Art and Expression: Creativity Unleashed",
-    "body": "Art comes in various forms, from painting and sculpture to music and dance. Engaging in creative pursuits allows individuals to express themselves and explore their imagination."
-  },
-  {
-    "id": 21,
-    "title": "Exploring Cultural Cuisines",
-    "body": "Cuisine is an integral part of any culture, reflecting its history, geography, and traditions. Trying different dishes from around the world can be a delightful culinary journey."
-  },
-  {
-    "id": 22,
-    "title": "Investing in the Stock Market",
-    "body": "Understanding the stock market and investment strategies can help individuals build wealth and achieve financial goals. However, it's essential to be aware of the associated risks and conduct thorough research before investing."
-  },
-  {
-    "id": 23,
-    "title": "The Wonders of the Human Brain",
-    "body": "The human brain is a complex organ responsible for cognition, emotions, and bodily functions. Exploring neuroscience can provide insights into human behavior and mental health."
-  },
-  {
-    "id": 24,
-    "title": "Yoga for Mind and Body",
-    "body": "Yoga is an ancient practice that combines physical postures, breath control, and meditation. Regular yoga practice can improve flexibility, reduce stress, and promote overall well-being."
-  },
-  {
-    "id": 25,
-    "title": "The Marvels of Engineering: Bridges",
-    "body": "Bridges are engineering marvels that connect communities and overcome geographical barriers. They come in various designs and have played a crucial role in human civilization's development."
-  },
-  {
-    "id": 26,
-    "title": "Discovering National Parks",
-    "body": "National parks preserve some of the world's most stunning landscapes and wildlife. Visiting these protected areas allows individuals to appreciate nature's beauty and support conservation efforts."
-  },
-  {
-    "id": 27,
-    "title": "Music through the Ages",
-    "body": "Music has evolved over centuries, reflecting cultural changes and technological advancements. Exploring different music genres can be a journey through time and human expression."
-  },
-  {
-    "id": 28,
-    "title": "Exploring the Ocean: Marine Biology",
-    "body": "Marine biology is the study of marine organisms and ecosystems. It provides valuable insights into ocean health and biodiversity, crucial for preserving marine life."
-  },
-  {
-    "id": 29,
-    "title": "The Impact of Social Media",
-    "body": "Social media has revolutionized communication and connectivity. Understanding its influence on society, privacy concerns, and responsible usage is essential in the digital age."
-  },
-  {
-    "id": 30,
-    "title": "The Universe: Vast Beyond Imagination",
-    "body": "The universe is a vast and mysterious expanse, containing billions of galaxies, stars, and planets. Exploring cosmology and astronomy can expand our understanding of the cosmos."
-  }
-]
-
+    {
+      "id": 11,
+      "title": "Mindfulness Meditation",
+      "body": "Mindfulness meditation is a practice that involves focusing on the present moment without judgment. It can reduce stress, improve mental clarity, and enhance overall well-being."
+    },
+    {
+      "id": 12,
+      "title": "Photography: Capturing Moments",
+      "body": "Photography is an art form that allows us to freeze moments in time and convey emotions through images. Whether it's landscapes, portraits, or street photography, each photo tells a unique story."
+    },
+    {
+      "id": 13,
+      "title": "The World of Books: Literature Through Ages",
+      "body": "Books have been a source of knowledge, inspiration, and entertainment for centuries. From ancient texts to modern novels, literature reflects the human experience and offers a glimpse into different cultures and perspectives."
+    },
+    {
+      "id": 14,
+      "title": "Introduction to Blockchain Technology",
+      "body": "Blockchain is a decentralized and secure technology used for recording transactions. It forms the backbone of cryptocurrencies like Bitcoin and has potential applications in various industries beyond finance."
+    },
+    {
+      "id": 15,
+      "title": "Sustainable Fashion: Ethical Clothing Choices",
+      "body": "Sustainable fashion promotes environmentally and socially responsible practices in the fashion industry. Choosing eco-friendly and ethically produced clothing can help reduce the environmental impact of the fashion world."
+    },
+    {
+      "id": 16,
+      "title": "Learning a New Language",
+      "body": "Learning a new language opens doors to new cultures and opportunities. It can enhance cognitive abilities, improve communication skills, and foster a deeper appreciation for diverse societies."
+    },
+    {
+      "id": 17,
+      "title": "The Art of Negotiation",
+      "body": "Negotiation is a skill that can be applied in various situations, from business deals to personal relationships. Understanding effective negotiation strategies can lead to mutually beneficial outcomes."
+    },
+    {
+      "id": 18,
+      "title": "Exploring Underwater Worlds: Scuba Diving",
+      "body": "Scuba diving allows adventurers to explore the wonders of the underwater world. From vibrant coral reefs to marine life, diving offers a unique and unforgettable experience."
+    },
+    {
+      "id": 19,
+      "title": "Gardening for Beginners",
+      "body": "Gardening is a rewarding hobby that connects people with nature. Whether you have a small balcony or a spacious backyard, growing plants can be a source of joy and relaxation."
+    },
+    {
+      "id": 20,
+      "title": "Art and Expression: Creativity Unleashed",
+      "body": "Art comes in various forms, from painting and sculpture to music and dance. Engaging in creative pursuits allows individuals to express themselves and explore their imagination."
+    },
+    {
+      "id": 21,
+      "title": "Exploring Cultural Cuisines",
+      "body": "Cuisine is an integral part of any culture, reflecting its history, geography, and traditions. Trying different dishes from around the world can be a delightful culinary journey."
+    },
+    {
+      "id": 22,
+      "title": "Investing in the Stock Market",
+      "body": "Understanding the stock market and investment strategies can help individuals build wealth and achieve financial goals. However, it's essential to be aware of the associated risks and conduct thorough research before investing."
+    },
+    {
+      "id": 23,
+      "title": "The Wonders of the Human Brain",
+      "body": "The human brain is a complex organ responsible for cognition, emotions, and bodily functions. Exploring neuroscience can provide insights into human behavior and mental health."
+    },
+    {
+      "id": 24,
+      "title": "Yoga for Mind and Body",
+      "body": "Yoga is an ancient practice that combines physical postures, breath control, and meditation. Regular yoga practice can improve flexibility, reduce stress, and promote overall well-being."
+    },
+    {
+      "id": 25,
+      "title": "The Marvels of Engineering: Bridges",
+      "body": "Bridges are engineering marvels that connect communities and overcome geographical barriers. They come in various designs and have played a crucial role in human civilization's development."
+    },
+    {
+      "id": 26,
+      "title": "Discovering National Parks",
+      "body": "National parks preserve some of the world's most stunning landscapes and wildlife. Visiting these protected areas allows individuals to appreciate nature's beauty and support conservation efforts."
+    },
+    {
+      "id": 27,
+      "title": "Music through the Ages",
+      "body": "Music has evolved over centuries, reflecting cultural changes and technological advancements. Exploring different music genres can be a journey through time and human expression."
+    },
+    {
+      "id": 28,
+      "title": "Exploring the Ocean: Marine Biology",
+      "body": "Marine biology is the study of marine organisms and ecosystems. It provides valuable insights into ocean health and biodiversity, crucial for preserving marine life."
+    },
+    {
+      "id": 29,
+      "title": "The Impact of Social Media",
+      "body": "Social media has revolutionized communication and connectivity. Understanding its influence on society, privacy concerns, and responsible usage is essential in the digital age."
+    },
+    {
+      "id": 30,
+      "title": "The Universe: Vast Beyond Imagination",
+      "body": "The universe is a vast and mysterious expanse, containing billions of galaxies, stars, and planets. Exploring cosmology and astronomy can expand our understanding of the cosmos."
+    }
+  ]
 }
